@@ -28,3 +28,4 @@ RM: 550266
 
 
 > obs: tive dificuldades com alguns pontos, melhorias e organização.
+> com alguns impecílios com a comunicação com a API, pesquisei a utilização do axios
